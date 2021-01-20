@@ -19,5 +19,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "author": "Rishab Baisakh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
 }
