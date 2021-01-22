@@ -1,3 +1,7 @@
+import Game from "./Game";
+
 window.onload = () => {
-  console.log("Game Started");
+  let game = new Game();
+
+  game.renderBoard();
 };
